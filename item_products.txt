@@ -1,0 +1,5 @@
+item_name,item_price,item_size,item_color
+티셔츠,5000,m,red
+바지,15000,m,black
+맨투맨,25000,m,blue
+후드티,35000,m,green
